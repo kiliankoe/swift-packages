@@ -14,6 +14,7 @@ At this time, finding Swift packages seems a bit slim.  Thus, contributions to t
 - [SwiftSequence](https://github.com/oisdk/SwiftSequence) - A framework of extensions for Sequences, inspired by Python's itertools, Haskell's standard library, and other things
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - JSON handling in Swift.
 - [shuffle](https://github.com/glessard/shuffle) - Lazy shuffling of arrays.
+- [swift-parser-generator](https://github.com/pixelspark/swift-parser-generator) - Parser generator
 
 ### Darwin Specific (OS X, iOS, watchOS, tvOS)
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Swift wrapper around Keychain for iOS and OS X.
