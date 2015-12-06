@@ -10,9 +10,13 @@ At this time, finding Swift packages seems a bit slim.  Thus, contributions to t
 - [Commander](https://github.com/kylef/Commander) - Great for making command line interfaces in Swift.
 - [Punctual](https://github.com/harlanhaskins/Punctual.swift) - Extensions to NSDate APIs to make them friendlier.
 - [Regex](https://github.com/sharplet/Regex) - Convenient regular expressions in Swift, making use of NSRegularExpression.
+- [SwiftFoundation](https://github.com/PureSwift/SwiftFoundation) - Cross-Platform, Protocol-Oriented Programming base library to complement the Swift Standard Library.
 - [SwiftSequence](https://github.com/oisdk/SwiftSequence) - A framework of extensions for Sequences, inspired by Python's itertools, Haskell's standard library, and other things
 - [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - JSON handling in Swift.
 - [shuffle](https://github.com/glessard/shuffle) - Lazy shuffling of arrays.
 
-### OS X or iOS Specific
+### Darwin Specific (OS X, iOS, watchOS, tvOS)
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Swift wrapper around Keychain for iOS and OS X.
+
+### Linux Specific
+- [SwiftBlueZ](https://github.com/PureSwift/SwiftBlueZ) - Swift wrapper for Linux Bluetooth C API (BlueZ)
