@@ -2,7 +2,13 @@
 A manually Curated List of Swift packages that build with the [Swift Package Manager](https://github.com/apple/swift-package-manager).  As described [here](https://github.com/apple/swift-package-manager/blob/master/Documentation/PackageManagerCommunityProposal.md#a-package-index), a package index for Swift packages is a long-term goal for the Swift Package Manager.  In the mean time, this temporary list of valid and maintained Swift packages can serve as something of an index.  Note that this index will *only* contain Swift projects that are packages that build using the Swift Package Manager.
 
 ## Contributing
-At this time, finding Swift packages seems a bit slim.  Thus, contributions to this list in the form of pull requests are welcome!  Before submitting a pull request to add a packager, make sure that the repository you are linking to includes a `Package.swift` file, builds with the Swift Package Manager, and is useful to the community at large.
+At this time, finding Swift packages seems a bit slim.  Thus, contributions to this list are very welcome!
+### To Add a Package:
+Submit a pull request! Before submitting a pull request to add a packager, make sure that the repository you are linking to includes a `Package.swift` file, builds with the Swift Package Manager, and is useful to the community at large.
+### If a Package Doesn't Build
+In addition to creating an issue on the package's repository, feel free to also file an issue here, detailing under what conditions the package doesn't build for you.  Packages that do not build on a common platform for an extended period of time will be removed.
+### To Remove a Package:
+If you believe a package should not be on this list because it no longer serves a significant use to the Swift community, create an issue explaining your opinion.
 
 ## Packages
 ### Cross-Platform
