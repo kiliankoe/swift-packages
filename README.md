@@ -4,7 +4,7 @@ A manually Curated List of Swift packages that build with the [Swift Package Man
 ## Contributing
 At this time, finding Swift packages seems a bit slim.  Thus, contributions to this list are very welcome!
 ### To Add a Package:
-Submit a pull request! Before submitting a pull request to add a packager, make sure that the repository you are linking to includes a `Package.swift` file, builds with the Swift Package Manager, and is useful to the community at large.
+Submit a pull request! Before submitting a pull request to add a packager, make sure that the repository you are linking to includes a `Package.swift` file, builds with the Swift Package Manager, and is useful to the community at large. Also, please keep the list in alphabetical order.
 ### If a Package Doesn't Build
 In addition to creating an issue on the package's repository, feel free to also file an issue here, detailing under what conditions the package doesn't build for you.  Packages that do not build on a common platform for an extended period of time will be removed.
 ### To Remove a Package:
