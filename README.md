@@ -18,6 +18,7 @@ At this time, finding Swift packages seems a bit slim.  Thus, contributions to t
 
 ### Darwin Specific (OS X, iOS, watchOS, tvOS)
 - [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Swift wrapper around Keychain for iOS and OS X.
+- [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
 
 ### Linux Specific
 - [SwiftBlueZ](https://github.com/PureSwift/SwiftBlueZ) - Swift wrapper for Linux Bluetooth C API (BlueZ)
